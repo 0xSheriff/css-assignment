@@ -1,0 +1,30 @@
+body {
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.header {
+    background-color: #ff69b4; /* pink color */
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
+}
+
+p {
+    color: black;
+    margin: 0;
+}
